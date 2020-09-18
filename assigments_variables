@@ -1,0 +1,150 @@
+package assigment_variables;
+
+public class variablesAssignment {
+
+	public static void main(String[] args) {
+	
+	
+	
+	int count;
+	count=12;
+	
+	System.out.println("Question 1");
+	System.out.println("the value is " + count);
+	
+	
+	System.out.println();
+	String message;
+	message = "your text has been received";
+	
+	System.out.println("Question2");
+	System.out.println(message);
+	
+	
+	System.out.println();
+	int num=3;
+	double cost=3.4;
+	
+	System.out.println("Question3");
+	System.out.print(" num= " + num + " cost= " + cost);
+	System.out.println();
+	
+	System.out.println();
+	System.out.println("Question4");
+	
+	String word;
+	word="Java";
+	System.out.println("Today's word-Of-The-Day is:" + word);
+	
+	byte first_is, second;
+	first_is = 55;
+	second = 123;
+	
+	System.out.println();
+	System.out.println("Question5");
+	System.out.println("first is " + first_is + " second = " + second);
+	
+	
+	System.out.println();
+	System.out.println("Question6");
+	
+	String James, Betty, Herb, Bob, Jill;
+	
+	Bob = "A1";
+	James = "A5";
+	Herb = "A4";
+	Betty = "A3";
+	Jill = "A2";
+	
+	System.out.println("James-" +James + " Herb-" + Herb + " Betty-" + Betty + " Jill-" + Jill + " Bob-" + Bob);
+	
+	System.out.println();
+	System.out.println("Question7");
+	
+	int i;
+	float f;
+	i=9;
+	f=33.4f;
+	
+	System.out.println("i=" + i + " f=" + f);
+	
+	System.out.println();
+	System.out.println("Question8");
+	
+	String Assume_lan1, Assume_line2;
+	Assume_lan1 = "Java";
+	Assume_line2 = "SQL";
+	
+	System.out.println("I will learn \"" +Assume_lan1+ "\" and \"" + Assume_line2 + "\" at CybertekSchool.");
+	
+	
+	System.out.println();
+	System.out.println("question9");
+	
+	byte step; 
+	short miles; 
+	int countt;
+	long population;
+	
+	step = 100;
+	miles = 5000;
+	countt = 1000000;
+	population = 343445567;
+	
+	
+	System.out.println("step=" + step + " miles=" + miles+ " count=" + countt + " population=" + population);
+	
+	System.out.println();
+	System.out.println("Question10");
+	
+	String hour, minute, seconds, amString,pmString;
+	
+	hour = "23";
+	minute = "32";
+	seconds = "42";
+	amString = "am";
+	pmString = "pm";
+	
+	System.out.println(hour + ":" + minute + ":" + seconds + "am");
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+}
